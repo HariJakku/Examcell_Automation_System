@@ -54,7 +54,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] != 'admin') {
 
     <!-- Footer at the very bottom -->
     <footer class="bg-gray-800 text-white text-center py-2 w-full mt-auto">
-        &copy; 2025 Gorli Laxmi
+        &copy; 2025 Hari Jakku
     </footer>
 
 </body>
