@@ -69,6 +69,6 @@ $examResult = $conn->query($examQuery);
         <br>
         <a href="student_dashboard.php" class="bg-green-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition duration-300">Back</a>
     </div>
-    <footer class="bg-gray-800 text-white text-center py-2 w-full mt-auto">&copy; 2025 Gorli Laxmi</footer>
+    <footer class="bg-gray-800 text-white text-center py-2 w-full mt-auto">&copy; 2025 Harii Jakku</footer>
 </body>
 </html>
