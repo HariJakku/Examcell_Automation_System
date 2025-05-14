@@ -95,7 +95,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
     
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white text-center py-2 mt-6 w-full">&copy; 2025 Gorli Laxmi</footer>
+    <footer class="bg-gray-800 text-white text-center py-2 mt-6 w-full">&copy; 2025 Hari Jakku</footer>
     
     <script>
         document.getElementById('role').addEventListener('change', function () {
