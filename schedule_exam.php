@@ -130,7 +130,7 @@ $exams_result = $conn->query($exams_query);
             </div>
         </div>
     </div>
-    <footer class="bg-gray-800 text-white text-center py-2 w-full fixed bottom-0 left-0">&copy; 2025 Gorli Laxmi</footer>
+    <footer class="bg-gray-800 text-white text-center py-2 w-full fixed bottom-0 left-0">&copy; 2025 Hari Jakku</footer>
 </body>
 </html>
 
